@@ -4,10 +4,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20to&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yujin's%20Github&descAlign=62"/>
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjacomyou1026%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjacomyou0121%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![전유진's github stats](https://github-readme-stats.vercel.app/api?username=jacomyou1026&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacomyou1026&layout=compact)
+![전유진's github stats](https://github-readme-stats.vercel.app/api?username=jacomyou0121&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacomyou0121&layout=compact)
 
 
 <!--내용 부분-->
