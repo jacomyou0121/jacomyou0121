@@ -2,14 +2,20 @@
 <!--타이틀 부분-->
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%20to&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Yujin's%20Github&descAlign=62"/>
+
+
+
 </p>
+<div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjacomyou0121%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="mailto:jacomyou1026@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 
 ![전유진's github stats](https://github-readme-stats.vercel.app/api?username=jacomyou0121&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacomyou0121&layout=compact)
-
-
+</div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
