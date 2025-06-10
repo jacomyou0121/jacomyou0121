@@ -6,7 +6,8 @@
 </p>
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+[![Hits](https://hits.seeyoufarm.kr/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjglass0121&count_bg=%23FF7E00&title_bg=%23000000&icon=heart&icon_color=%23ffffff&title=visits&edge_flat=false)](https://hits.seeyoufarm.kr)
+               
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacomyou1026@gmail.com)](mailto:jacomyou1026@gmail.com)
 
 ![전유진's github stats](https://github-readme-stats.vercel.app/api?username=jglass0121&show_icons=true&theme=tokyonight)
